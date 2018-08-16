@@ -1,4 +1,4 @@
-package cn.wzl.studybootdo.dao;
+package cn.wzl.studybootdo.dao.userinfo;
 
 
 import cn.wzl.studybootdo.model.UserInfo;

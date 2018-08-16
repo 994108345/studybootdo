@@ -4,7 +4,7 @@ package cn.wzl.studybootdo.service.impl;/**
 
 import cn.wzl.studybootdo.common.base.message.MessageInfo;
 import cn.wzl.studybootdo.common.base.message.MessageStatus;
-import cn.wzl.studybootdo.dao.UserInfoDao;
+import cn.wzl.studybootdo.dao.userinfo.UserInfoDao;
 import cn.wzl.studybootdo.model.UserInfo;
 import cn.wzl.studybootdo.service.UserInfoService;
 import org.slf4j.Logger;

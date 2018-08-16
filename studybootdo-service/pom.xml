@@ -10,6 +10,24 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>studybootdo-service</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>cn.wzl</groupId>
+            <artifactId>studybootdo-model</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.wzl</groupId>
+            <artifactId>studybootdo-dao</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.wzl</groupId>
+            <artifactId>studybootdo-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 
 
 </project>
